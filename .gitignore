@@ -1,0 +1,4 @@
+shortest_route
+*.o
+*.out
+build/
